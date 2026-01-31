@@ -1,0 +1,5 @@
+nltk
+textblob
+newspaper3k
+deep-translator
+lxml
